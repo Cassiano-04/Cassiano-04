@@ -3,7 +3,7 @@ boas vindas
 **Cassiano-04**
 
 Estou studando com o aplicatico[alura](https://www.alura.com.br/)  
-gpo
+
 tenho 15 anos
 vou fazer faculdade de agronomia
 gosto de praticar esportes
